@@ -1,10 +1,13 @@
-// console.log("heloo bruh");
-
-
-// var userName = prompt ("what was your name? ");
-// var welcomeMsg = "weolcome " + userName ;
-// alert (welcomeMsg);
-
-
 var buttonTranslate = document.querySelector("#btn-translate");
-console.log (buttonTranslate);
+var textInput = document.querySelector("#txt-input");
+console.log (textInput)
+
+function clickHandler() {
+    console.log("clicked");
+    console.log("input",textInput.value);
+};
+
+
+
+buttonTranslate.addEventListener("click", clickHandler())
+
