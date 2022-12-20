@@ -22,3 +22,8 @@ Translation API ("https://api.funtranslations.com/")
 # Live Project
 
 https://funnyminiontranslation.netlify.app/
+
+# Screen Shots 
+
+![banana talk](https://user-images.githubusercontent.com/116138513/208686515-6cfdf181-71b9-4547-9f93-b7665c35fe81.PNG)
+
