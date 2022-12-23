@@ -62,4 +62,3 @@ btnTranslate.addEventListener("click", clickEventHandler);
 
 
 
-btnTranslate.addEventListener("click", clickEventHandler);
